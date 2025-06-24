@@ -14,23 +14,23 @@ A fun web app built with **Node.js** and **Express** that generates a band name 
 - Node.js
 - Express.js
 - Body-Parser
-- HTML/CSS (for the form in `public/index.html`)
+- HTML (for the form in `public/index.html`)
 
 ## 📁 Project Structure
 
 band-name-generator/
 ├── public/
 │ └── index.html # The front-end form
-├── app.js # Main server file
+├── inedx4.js # Main server file
 ├── package.json
-└── README.md
+└── package-lock.json
 
 
 ## 📦 Installation
 
 1. Clone the repository:
 
-   ```bash
+   bash
    git clone https://github.com/your-username/band-name-generator.git
    cd band-name-generator
 
