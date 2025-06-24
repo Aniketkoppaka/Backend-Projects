@@ -30,7 +30,7 @@ band-name-generator/
 
 1. Clone the repository:
 
-   bash
+   ```bash
    git clone https://github.com/your-username/band-name-generator.git
    cd band-name-generator
 
